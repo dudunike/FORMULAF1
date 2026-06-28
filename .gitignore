@@ -1,0 +1,9 @@
+﻿# Videos originais — substituidos pelos MP4 convertidos
+imgtotal/*.mov
+IMGTOTAL/*.mov
+imgtotal/*.txt
+IMGTOTAL/*.txt
+
+# Sistema
+Thumbs.db
+.DS_Store
